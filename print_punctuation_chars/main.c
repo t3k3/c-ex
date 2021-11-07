@@ -1,3 +1,5 @@
+//print the punctuation characters to stdout.
+
 #include <stdio.h>
 #include <ctype.h>
 
